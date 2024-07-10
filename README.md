@@ -4,7 +4,7 @@
 
 # ⭐🌟⭐ _ReZero: The Rogue-Lite Adventure_ ⭐🌟⭐
 
-![MainPagea](https://github.com/Tushar98644/AwesomeDemoGameProject-GSOC-2024/assets/title-screen.jpg)
+![MainPagea](assets/title-screen.jpeg)
 
 ## Introduction <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Aim to develop an **awesome rogue-lite action-platformer game** using **Pocket Code**. Playable on both phone and smart TV, _ReZero_ showcases the immense abilities of Pocket Code for designing high-quality games with an engaging and interactive story.
