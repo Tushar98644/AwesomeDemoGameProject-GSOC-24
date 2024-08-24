@@ -23,7 +23,7 @@ Explore a fantastical castle filled with all manner of monsters, traps, and trea
 
 ## Features 💬
 
-● **Expansive Levels**: Fie major levels, each with unique creatures, traps, and challenges.
+● **Expansive Levels**: Five major levels, each with unique creatures, traps, and challenges.
 
 ● **Cinematic Cutscenes**: Engaging storytelling through beautifully crafted cutscenes.
 

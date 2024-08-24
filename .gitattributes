@@ -1,2 +1,4 @@
 ReZero[[:space:]]V-4.0.catrobat filter=lfs diff=lfs merge=lfs -text
 game-files/ReZero-V-5.0.catrobat filter=lfs diff=lfs merge=lfs -text
+gameplay/gameplay-1.mp4 filter=lfs diff=lfs merge=lfs -text
+gameplay/gameplay-2.mp4 filter=lfs diff=lfs merge=lfs -text
