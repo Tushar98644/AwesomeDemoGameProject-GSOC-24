@@ -4,3 +4,4 @@ gameplay/gameplay-1.mp4 filter=lfs diff=lfs merge=lfs -text
 gameplay/gameplay-2.mp4 filter=lfs diff=lfs merge=lfs -text
 gameplay/gameplay-3.mp4 filter=lfs diff=lfs merge=lfs -text
 gameplay/gameplay-4.mp4 filter=lfs diff=lfs merge=lfs -text
+gameplay/gameplay-5.mp4 filter=lfs diff=lfs merge=lfs -text
